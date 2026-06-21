@@ -52,6 +52,6 @@ VMware Dashboard
 ![image alt](https://github.com/romannnoori09/Proxmox-Virtualization-Lab/blob/main/WMware%20Dashboard.png)
 
 VMware VM List
-![image alt]()
+![image alt](https://github.com/romannnoori09/Proxmox-Virtualization-Lab/blob/main/VMware-VM%20list.png)
 
 
