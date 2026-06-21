@@ -48,10 +48,10 @@ A home lab created to practice virtualization, server management, and IT infrast
 ## VMware ESXi Virtualization Lab
 
 
-VMware Dashboard
+## VMware Dashboard
 ![image alt](https://github.com/romannnoori09/Proxmox-Virtualization-Lab/blob/main/WMware%20Dashboard.png)
 
-VMware VM List
+## VMware VM List
 ![image alt](https://github.com/romannnoori09/Proxmox-Virtualization-Lab/blob/main/VMware-VM%20list.png)
 
 
