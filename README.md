@@ -1,4 +1,4 @@
-# Proxmox Virtualization Lab
+# Proxmox And VMware ESXi Virtualization Lab
 
 ## Overview
 
@@ -43,3 +43,15 @@ A home lab created to practice virtualization, server management, and IT infrast
 - Virtual Machines
 - Windows Server
 - Linux
+
+
+## VMware ESXi Virtualization Lab
+
+
+VMware Dashboard
+![image alt]()
+
+VMware VM List
+![image alt]()
+
+
